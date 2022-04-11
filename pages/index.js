@@ -73,7 +73,7 @@ export default function Home() {
 
       <main >
 
-      <div class="content is-medium">
+      <div className="content is-medium">
 
         <Image
         src={foto}
@@ -88,7 +88,7 @@ export default function Home() {
         </h1>
 
         <p>
-        Si estas pensando en iniciar tu <span class="tag is-primary is-light is-large">propio negocio</span> o tu emprendimiento, en este articulo te contamos cuales son <strong>los negocios más rentables en Perú en 2022 </strong> en donde invertir.
+        Si estas pensando en iniciar tu <span className="tag is-primary is-light is-large">propio negocio</span> o tu emprendimiento, en este articulo te contamos cuales son <strong>los negocios más rentables en Perú en 2022 </strong> en donde invertir.
           
         </p>
 
@@ -139,7 +139,7 @@ export default function Home() {
         <p>Hoy en día muchas personas no tienen tiempo para preparar una comida saluable,una idea es el delivery de comida saludable a domicilio y oficina, podrías ofrecer planes de nutrición para que las personas cumplan sus objetivos nutricionales y tambien una asesoría personalizada.</p>
         
         <p>En esta <strong>idea de negocio para inicar en Perú este 2022</strong>, puedes considerar también, vender y distribuir productos que se utilizan en el mundo fitness, como: suplementos alimenticios, ropa y calzado para hacer deportes, accesorios como pesas, mancuernas, colchoneta, bancas, entre otros.</p>
-        <p>Es fundamental brindar una atención personalizada a tus clientes, esto ayudará a que se sientan más motivados y sigan comprando tu producto. La clave para que este <span class="tag is-primary is-light is-large">negocio sea exitoso</span> y se mantenga, es la buena atención y la comunicación con los clientes.</p>
+        <p>Es fundamental brindar una atención personalizada a tus clientes, esto ayudará a que se sientan más motivados y sigan comprando tu producto. La clave para que este <span className="tag is-primary is-light is-large">negocio sea exitoso</span> y se mantenga, es la buena atención y la comunicación con los clientes.</p>
 
         <h2>Tienda online o Ecommerce</h2>
         <Image
@@ -225,7 +225,7 @@ export default function Home() {
       />
 
         <p>Cada vez más peruanos entran al mundo de la inversión en activos financieros, por ejmeplo compra y venta de acciones en las diferentes plataformas digitales. Esto puede generar una buena cantidad de ingresos si estas capacitado para invertir tu dinero correctamente . Lo bueno es que existen plataformas especializadas que se utilizan tanto por profesionales como por principiantes.</p>
-        <p><span class="tag is-danger is-light is-large">Conclusión:</span></p>
+        <p><span className="tag is-danger is-light is-large">Conclusión:</span></p>
         <p>Estas son solo algunas de las ideas de <strong>negocios para iniciar en Perú este 2022</strong> que pueden llegar a ser muy rentables. Nunca olviden que la clave del éxito es mantenerse en continua innovación y aprendizaje. El 2022 llega con muchas ganas de seguir adelante, no pierdan la oportunidad de emprender en alguno de estos negocios en Perú.</p>
 
         </div>
@@ -239,8 +239,8 @@ export default function Home() {
       </div>
       </div>
 
-      <footer class="footer">
-        <div class="content has-text-centered">
+      <footer className="footer">
+        <div className="content has-text-centered">
           <p>
             <strong>Negocios rentables en Perú -  2022</strong>, todos los derechos reservados 
           </p>

@@ -26,7 +26,7 @@ export default function Home() {
       <nav className="navbar is-light" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <a className="navbar-item" href="https://bulma.io">
-          <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28"/>
+          Negocios Rentables
         </a>
 
         <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -118,7 +118,7 @@ export default function Home() {
         <p>Uno de los <strong>negocios más rentables</strong> que puedes iniciar  en el Perú es el negocio del agua embotellada o agua de mesa.</p>
 
         <p>Los habitos hacia una alimentación más saludable esta creciendo cada día; mientras que el consumo de gaseosas y bebidas azucaradas disminuye, el consumo de agua de mesa se incrementa cada año.</p>
-        <p>Este negocio conciste en vender agua de mesa en diferentes presentaciones de 20 litros, 7 litros y 1 litro, tus clientes pueden ser desde hogares, tiendas, <span class="tag is-primary is-light is-large">negocios y empresas</span>. Para iniciar con este negocio es necesario comprar los equipos de tratamiento, un local donde instalaras la plantas de agua y todos los permisos necesarios.</p>
+        <p>Este negocio conciste en vender agua de mesa en diferentes presentaciones de 20 litros, 7 litros y 1 litro, tus clientes pueden ser desde hogares, tiendas, <span className="tag is-primary is-light is-large">negocios y empresas</span>. Para iniciar con este negocio es necesario comprar los equipos de tratamiento, un local donde instalaras la plantas de agua y todos los permisos necesarios.</p>
 
         <p>Si te interesa este negocio,encontraras toda la información y asesoria en el siguiente link <a href="https://essence.pe/">Aquí</a></p>
 
